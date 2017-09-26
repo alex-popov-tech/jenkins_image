@@ -1,0 +1,10 @@
+git:latest
+github:latest
+junit:latest
+xunit:latest
+gradle:latest
+allure-jenkins-plugin:latest
+dashboard-view:latest
+discard-old-build:latest
+role-strategy:latest
+build-timeout:latest
